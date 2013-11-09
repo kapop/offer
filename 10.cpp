@@ -12,7 +12,7 @@ int count(int x){
 
 int main()
 {
-    int a,b;
+    int a;
     while (cin >> a){
         cout << count(a) << endl;
     }
